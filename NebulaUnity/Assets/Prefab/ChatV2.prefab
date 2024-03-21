@@ -2509,6 +2509,7 @@ MonoBehaviour:
   dragTrans: {fileID: 3527980105942565041}
   refTrans: {fileID: 2506718053184331326}
   screenRect: {fileID: 2346308022511189012}
+  hasPopupAudio: 1
   dragThreshold: 4
   damping: 0.2
   spring: 0.5
